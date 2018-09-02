@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
+# SPairing
+- project: SPairing
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  duration: 2018
+  url: "https://github.com/UNfailG1/IS2_SPairing_FE"
+  description: Online service to facilitate videogame pairing with similar players.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Run Runner
+- project: Run Runner
+  role: Founder & Primary Developer
+  duration: 2013 &mdash; 2014
+  url: "https://play.google.com/store/apps/details?id=com.OASTUDIOS.RUNRUNNER1"
+  description: Infinite runner game developed as a school project and Unity learning experience.
+  
+ # Open Ingenieria Apps
+- project: Open Ingeniería - Electrical Engineering Utility Apps
+  role: Primary Developer
+  duration: 2017 &mdash; 2018
+  url: "https://play.google.com/store/apps/developer?id=Open+Ingenieria"
+  description: Various apps designed to save time and calculations during electrical engineering projects.
